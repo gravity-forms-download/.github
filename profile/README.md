@@ -1,4 +1,4 @@
-# Gravity Forms Pro – Free Download (Latest Version)
+## Gravity Forms Pro – Latest Version
 
 ![Gravity Forms Pro](https://github.com/gravity-forms/gravity-forms.github.io/blob/main/gravity_forms_banner.jpg?raw=true)
 
